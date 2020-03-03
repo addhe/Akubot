@@ -1,7 +1,6 @@
 banana
 watermelon
 melon
-apple
 peach
 grape
-dragon
+durian
