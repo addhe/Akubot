@@ -1,2 +1,4 @@
 banana
 watermelon
+melon
+jackfruit
