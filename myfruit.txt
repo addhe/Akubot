@@ -1,6 +1,4 @@
 banana
 watermelon
 melon
-jackfruit
 apple
-grape
