@@ -2,3 +2,5 @@ banana
 watermelon
 melon
 apple
+peach
+grape
